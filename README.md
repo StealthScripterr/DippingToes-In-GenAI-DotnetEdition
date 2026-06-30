@@ -3,11 +3,7 @@
 This repo documents a 12‑week, industry‑oriented learning and project roadmap for building production‑grade AI applications using .NET, Azure OpenAI, and Azure AI Search.  The goal is to move from LLM fundamentals to a fully deployed, enterprise‑ready capstone, following patterns aligned with Microsoft’s .NET RAG and Azure OpenAI guidance.
 Below is a detailed `README.md` you can drop into your repo and adapt. It assumes a 12‑week, .NET + Azure focused learning and project roadmap building toward an enterprise-grade RAG/agentic app.
 ***
-
-This repository documents a 12‑week, industry‑oriented learning and project roadmap for building production‑grade AI applications using **.NET**, **Azure OpenAI**, and **Azure AI Search**.
-
-The goal is to move from LLM fundamentals to a fully deployed, enterprise‑ready capstone (e.g., NotebookLM‑style document assistant or AI pitch deck generator), following patterns aligned with Microsoft’s official .NET RAG and Azure OpenAI guidance. [learn.microsoft](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-dotnet)
-
+ [learn.microsoft](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-search-dotnet)
 ***
 
 ## Objectives
