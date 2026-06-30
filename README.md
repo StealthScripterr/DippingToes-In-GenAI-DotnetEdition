@@ -51,36 +51,6 @@ By the end of this roadmap, you will be able to:
 
 ***
 
-## Project Structure (Suggested)
-
-You can organize this repo by week and by project:
-
-```text
-/Week01-03_Foundations
-  /Notes
-  /PlaygroundConsole
-
-/Week04_StreamingChat
-  /StreamingChat.Api
-  /StreamingChat.Web
-
-/Week06-08_RAG
-  /Rag.Api
-  /Rag.Web
-  /Rag.Ingestion.Worker
-
-/Week09-10_AgenticRag
-  /AgenticRag.Api
-  /AgenticRag.Orchestration
-
-/Week11-12_Capstone
-  /Capstone.App
-  /infra (Bicep / ARM / azd)
-/docs
-  architecture.md
-  decisions-log.md
-```
-
 This README describes the **overall roadmap**. Each project folder should have its own smaller README explaining local setup and design decisions.
 
 ***
@@ -444,5 +414,3 @@ This README describes the **overall roadmap**. Each project folder should have i
 - Semantic Kernel agent and Azure AI Search vector store connector documentation for C#. [learn.microsoft](https://learn.microsoft.com/en-us/semantic-kernel/concepts/vector-store-connectors/out-of-the-box-connectors/azure-ai-search-connector)
 
 ***
-
-If you share your preferred capstone (NotebookLM‑style vs. AI pitch deck vs. internal copilot), a more specialized section can be added to this README with domain‑specific requirements and acceptance criteria. What capstone idea are you currently leaning toward?
